@@ -11,3 +11,8 @@ npm install
 ```
 npm run dev
 ```
+
+4. 
+```
+http://localhost:8080
+```
